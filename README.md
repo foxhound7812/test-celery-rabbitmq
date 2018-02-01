@@ -1,0 +1,1 @@
+# test-celery-rabbitmq
